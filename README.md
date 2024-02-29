@@ -10,8 +10,4 @@ Create and deploy a Django API for an to do list application in React.
 - Django: do task Management
 
 ## TO DO: 
-
-
-
-- Django: do task Management
 - Django: do authentification 
